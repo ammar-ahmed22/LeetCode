@@ -5,3 +5,4 @@ This repo showcases all of the LeetCode solutions that I have solved.
 | Problem                                                    | Difficulty | Language   | Solution |
 |------------------------------------------------------------|-----------|------------|------|
 | [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy | TypeScript | [&#x1F4E4;](412.%20Fizz%20Buzz/README.md) |
+| [1. Two Sum](https://leetcode.com/problems/two-sum/) | Easy | TypeScript | [&#x1F4E4;](1.%20Two%20Sum/README.md) |
