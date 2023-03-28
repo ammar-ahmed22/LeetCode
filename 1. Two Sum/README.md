@@ -28,5 +28,5 @@ function twoSum(nums: number[], target: number): number[] {
 - If subtarget is found in hash map, return the two indices
 
 ## Complexity
-**Runtime**: O(n)
+**Runtime**: O(n) <br />
 **Space**: O(n)

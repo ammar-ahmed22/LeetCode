@@ -23,5 +23,5 @@ function fizzBuzz(n: number): string[] {
 - Important to loop starting from 1.
 
 ## Complexity
-**Runtime**: O(n)
+**Runtime**: O(n) <br />
 **Space**: O(n)
