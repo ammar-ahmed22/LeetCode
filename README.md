@@ -17,4 +17,5 @@ This repo showcases all of the LeetCode solutions that I have solved.
 |[6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|Medium|TypeScript, Python3|[&#x1F4E4;](6.%20ZigZag%20Conversion/README.md)|
 |[217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Easy|Python|[&#x1F4E4;](217.%20Contains%20Duplicate/README.md)|
 |[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)|Medium|Python|[&#x1F4E4;](49.%20Group%20Anagrams/README.md)|
+|[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|Medium|TypeScript|[&#x1F4E4;](347.%20Top%20K%20Frequent%20Elements/README.md)|
 <!-- TABLE END -->
