@@ -14,4 +14,5 @@ This repo showcases all of the LeetCode solutions that I have solved.
 |[326. Power of Three](https://leetcode.com/problems/power-of-three/)|Easy|TypeScript|[&#x1F4E4;](326.%20Power%20of%20Three/README.md)|
 |[191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|Easy|TypeScript|[&#x1F4E4;](191.%20Number%20of%201%20Bits/README.md)|
 |[303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|Easy|TypeScript|[&#x1F4E4;](303.%20Range%20Sum%20Query%20-%20Immutable/README.md)|
+|[6. ZigZag Converion](https://leetcode.com/problems/zigzag-conversion/)|Medium|TypeScript, Python3|[&#x1F4E4;](6.%20ZigZag%20Converion/README.md)|
 <!-- TABLE END -->
