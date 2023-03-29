@@ -16,4 +16,5 @@ This repo showcases all of the LeetCode solutions that I have solved.
 |[303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|Easy|TypeScript|[&#x1F4E4;](303.%20Range%20Sum%20Query%20-%20Immutable/README.md)|
 |[6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|Medium|TypeScript, Python3|[&#x1F4E4;](6.%20ZigZag%20Conversion/README.md)|
 |[217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Easy|Python|[&#x1F4E4;](217.%20Contains%20Duplicate/README.md)|
+|[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)|Medium|Python|[&#x1F4E4;](49.%20Group%20Anagrams/README.md)|
 <!-- TABLE END -->
