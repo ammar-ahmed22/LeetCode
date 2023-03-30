@@ -15,7 +15,7 @@ const getDirectories = (sourceDir: string, opts?: {ignore?: string[]}) => {
 }
 
 const questionDirs = getDirectories(__dirname, {
-  ignore: [".git", "helpers", "node_modules"]
+  ignore: [".git", "helpers", "node_modules", "assets", ".github"]
 });
 
 const extractOptions = (file: string): Options | undefined => {
