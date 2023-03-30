@@ -14,7 +14,5 @@ jobs:
       - run: yarn readme
       - uses: EndBug/add-and-commit@v9
         with:
-          author_name: Ammar Ahmed
-          author_email: ammar.ahmed2203@gmail.com
           default_author: github_actions
           message: "Update README table"
