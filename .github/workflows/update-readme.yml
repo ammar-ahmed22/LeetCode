@@ -15,10 +15,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      run: |
-        git config --global user.name "ammar-ahmed22"
-        git config --global user.email "ammar.ahmed2203@gmail.com"
-        git add .
-        git commit -m "Update README table"
-        git push
+      - run: |
+          git config --global user.name "ammar-ahmed22"
+          git config --global user.email "ammar.ahmed2203@gmail.com"
+          git add .
+          git commit -m "Update README table"
+          git push
 
