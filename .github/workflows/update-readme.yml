@@ -13,17 +13,5 @@ jobs:
         with:
           author_name: Ammar Ahmed
           author_email: ammar.ahmed2203@gmail.com
+          default_author: github_actions
           message: "Update README table"
-  # commit_changes:
-  #   needs: update_readme
-  #   name: Commit README Changes
-  #   runs-on: ubuntu-latest
-  #   steps:
-  #     - uses: actions/checkout@v3
-  #     - run: |
-  #         git config --global user.name "ammar-ahmed22"
-  #         git config --global user.email "ammar.ahmed2203@gmail.com"
-  #         git add -A
-  #         git commit -m "Update README table"
-  #         git push
-
