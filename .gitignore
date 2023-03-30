@@ -1,8 +1,1 @@
-helper
 node_modules
-*.ts
-package.json
-*.csv
-tsconfig.json
-yarn.lock
-template.md

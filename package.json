@@ -1,0 +1,21 @@
+{
+  "name": "helper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/command-line-args": "^5.2.0",
+    "@types/node": "^18.15.11",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.2"
+  },
+  "scripts": {
+    "new": "ts-node new.ts",
+    "readme": "ts-node readme.ts"
+  },
+  "dependencies": {
+    "chalk": "4.1.2",
+    "command-line-args": "^5.2.1",
+    "csv-parse": "^5.3.6"
+  }
+}

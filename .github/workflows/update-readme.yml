@@ -1,0 +1,24 @@
+name: Update README Questions Table
+"on":
+  workflow_dispatch:
+jobs:
+  update_readme:
+    runs-on: ubuntu-latest
+    name: Update README
+    steps:
+      - uses: actions/checkout@v3
+      - run: yarn install --frozen-lockfile
+      - run: yarn readme
+  commit_changes:
+    needs: update_readme
+    name: Commit README Changes
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      run: |
+        git config --global user.name "ammar-ahmed22"
+        git config --global user.email "ammar.ahmed2203@gmail.com"
+        git add .
+        git commit -m "Update README table"
+        git push
+
