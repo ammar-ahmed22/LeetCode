@@ -18,7 +18,7 @@ jobs:
       - run: |
           git config --global user.name "ammar-ahmed22"
           git config --global user.email "ammar.ahmed2203@gmail.com"
-          git add .
+          git add -A
           git commit -m "Update README table"
           git push
 
