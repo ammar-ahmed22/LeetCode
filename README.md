@@ -17,5 +17,6 @@ This repo showcases all of the LeetCode solutions that I have solved.
 |[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|Medium|TypeScript|[&#x1F4E4;](347.%20Top%20K%20Frequent%20Elements)|
 |[412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|Easy|TypeScript|[&#x1F4E4;](412.%20Fizz%20Buzz)|
 |[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)|Medium|Python|[&#x1F4E4;](49.%20Group%20Anagrams)|
+|[567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)|Medium|TypeScript|[&#x1F4E4;](567.%20Permutation%20in%20String)|
 |[6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|Medium|TypeScript, Python|[&#x1F4E4;](6.%20ZigZag%20Conversion)|
 <!-- TABLE END -->
