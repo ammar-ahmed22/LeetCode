@@ -7,8 +7,11 @@ Tracking my LeetCode solutions with explanations.
 |Problem|Difficulty|Language|Solution|
 |:-----:|:--------:|:------:|:------:|
 |[1. Two Sum](https://leetcode.com/problems/two-sum/)|Easy|TypeScript|[&#x1F4E4;](1.%20Two%20Sum)|
+|[11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|Medium|TypeScript|[&#x1F4E4;](11.%20Container%20With%20Most%20Water)|
+|[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|Easy|TypeScript|[&#x1F4E4;](121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)|
 |[125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|Easy|TypeScript|[&#x1F4E4;](125.%20Valid%20Palindrome)|
 |[14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|Easy|TypeScript|[&#x1F4E4;](14.%20Longest%20Common%20Prefix)|
+|[15. 3Sum](https://leetcode.com/problems/3sum/)|Medium|Python|[&#x1F4E4;](15.%203Sum)|
 |[167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|Medium|TypeScript|[&#x1F4E4;](167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted)|
 |[191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|Easy|TypeScript|[&#x1F4E4;](191.%20Number%20of%201%20Bits)|
 |[217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Easy|Python|[&#x1F4E4;](217.%20Contains%20Duplicate)|
@@ -53,8 +56,11 @@ yarn readme
 |Problem|Difficulty|Language|Solution|
 |:-----:|:--------:|:------:|:------:|
 |[1. Two Sum](https://leetcode.com/problems/two-sum/)|Easy|TypeScript|[&#x1F4E4;](1.%20Two%20Sum)|
+|[11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|Medium|TypeScript|[&#x1F4E4;](11.%20Container%20With%20Most%20Water)|
+|[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|Easy|TypeScript|[&#x1F4E4;](121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)|
 |[125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|Easy|TypeScript|[&#x1F4E4;](125.%20Valid%20Palindrome)|
 |[14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|Easy|TypeScript|[&#x1F4E4;](14.%20Longest%20Common%20Prefix)|
+|[15. 3Sum](https://leetcode.com/problems/3sum/)|Medium|Python|[&#x1F4E4;](15.%203Sum)|
 |[167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|Medium|TypeScript|[&#x1F4E4;](167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted)|
 |[191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|Easy|TypeScript|[&#x1F4E4;](191.%20Number%20of%201%20Bits)|
 |[217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Easy|Python|[&#x1F4E4;](217.%20Contains%20Duplicate)|
