@@ -22,6 +22,7 @@ Tracking my LeetCode solutions with explanations.
 |[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)|Python|[&#x1F4E4;](49.%20Group%20Anagrams)|
 |[567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)|TypeScript|[&#x1F4E4;](567.%20Permutation%20in%20String)|
 |[6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|TypeScript, Python|[&#x1F4E4;](6.%20ZigZag%20Conversion)|
+|[739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|TypeScript|[&#x1F4E4;](739.%20Daily%20Temperatures)|
 <!-- TABLE MEDIUM END -->
 ### ✅ Easy
 <!-- TABLE EASY START -->
