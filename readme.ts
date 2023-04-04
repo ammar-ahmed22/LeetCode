@@ -48,7 +48,7 @@ const constructMarkdownTable = (headers: string[], questions: Options[]) => {
     result += `:${"-".repeat(header.length - 2)}:|${i === arr.length - 1 ? "\n|" : ""}`
   })
 
-  allQuestions.forEach((q, i, arr) => {
+  questions.forEach((q, i, arr) => {
     let newRow = `[${q.name}](${q.url})|${q.difficulty}|${q.languages.join(",")}|[&#x1F4E4;](${q.name.split(" ").join("%20")})|${i !== arr.length - 1 ? "\n|" : ""}`;
     result += newRow;
   })
@@ -64,14 +64,37 @@ const replaceMarkdownTable = (filePath: string, start: string, end: string, tabl
   fs.writeFileSync(filePath, updated);
 }
 
-const table = constructMarkdownTable(
-  ["Problem", "Difficulty", "Language", "Solution"],
-  allQuestions
+const headers = ["Problem", "Difficulty", "Language", "Solution"];
+
+const easyTable = constructMarkdownTable(
+  headers,
+  allQuestions.filter( q => q.difficulty === "Easy")
 );
+const mediumTable = constructMarkdownTable(
+  headers,
+  allQuestions.filter( q => q.difficulty === "Medium")
+)
+
+const hardTable = constructMarkdownTable(
+  headers,
+  allQuestions.filter( q => q.difficulty === "Hard")
+)
 
 replaceMarkdownTable(
   path.join(__dirname, "README.md"),
-  "<!-- TABLE START -->",
-  "<!-- TABLE END -->",
-  table
+  "<!-- TABLE EASY START -->",
+  "<!-- TABLE EASY END -->",
+  easyTable
+);
+replaceMarkdownTable(
+  path.join(__dirname, "README.md"),
+  "<!-- TABLE MEDIUM START -->",
+  "<!-- TABLE MEDIUM END -->",
+  mediumTable
+);
+replaceMarkdownTable(
+  path.join(__dirname, "README.md"),
+  "<!-- TABLE HARD START -->",
+  "<!-- TABLE HARD END -->",
+  hardTable
 );

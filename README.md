@@ -3,16 +3,31 @@ Tracking my LeetCode solutions with explanations.
 
 
 ## Problems
-<!-- TABLE START -->
+<!-- TABLE HARD START -->
+|Problem|Difficulty|Language|Solution|
+|:-----:|:--------:|:------:|:------:|
+|[42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|Hard|TypeScript,Python|[&#x1F4E4;](42.%20Trapping%20Rain%20Water)|
+|[76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|Hard|TypeScript|[&#x1F4E4;](76.%20Minimum%20Window%20Substring)|
+<!-- TABLE HARD END -->
+<!-- TABLE MEDIUM START -->
+|Problem|Difficulty|Language|Solution|
+|:-----:|:--------:|:------:|:------:|
+|[11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|Medium|TypeScript|[&#x1F4E4;](11.%20Container%20With%20Most%20Water)|
+|[15. 3Sum](https://leetcode.com/problems/3sum/)|Medium|Python|[&#x1F4E4;](15.%203Sum)|
+|[150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|Medium|TypeScript|[&#x1F4E4;](150.%20Evaluate%20Reverse%20Polish%20Notation)|
+|[167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|Medium|TypeScript|[&#x1F4E4;](167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted)|
+|[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|Medium|TypeScript|[&#x1F4E4;](347.%20Top%20K%20Frequent%20Elements)|
+|[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)|Medium|Python|[&#x1F4E4;](49.%20Group%20Anagrams)|
+|[567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)|Medium|TypeScript|[&#x1F4E4;](567.%20Permutation%20in%20String)|
+|[6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|Medium|TypeScript, Python|[&#x1F4E4;](6.%20ZigZag%20Conversion)|
+<!-- TABLE MEDIUM END -->
+<!-- TABLE EASY START -->
 |Problem|Difficulty|Language|Solution|
 |:-----:|:--------:|:------:|:------:|
 |[1. Two Sum](https://leetcode.com/problems/two-sum/)|Easy|TypeScript|[&#x1F4E4;](1.%20Two%20Sum)|
-|[11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|Medium|TypeScript|[&#x1F4E4;](11.%20Container%20With%20Most%20Water)|
 |[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|Easy|TypeScript|[&#x1F4E4;](121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)|
 |[125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|Easy|TypeScript|[&#x1F4E4;](125.%20Valid%20Palindrome)|
 |[14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|Easy|TypeScript|[&#x1F4E4;](14.%20Longest%20Common%20Prefix)|
-|[15. 3Sum](https://leetcode.com/problems/3sum/)|Medium|Python|[&#x1F4E4;](15.%203Sum)|
-|[167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|Medium|TypeScript|[&#x1F4E4;](167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted)|
 |[191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|Easy|TypeScript|[&#x1F4E4;](191.%20Number%20of%201%20Bits)|
 |[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|Easy|TypeScript|[&#x1F4E4;](20.%20Valid%20Parentheses)|
 |[217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Easy|Python|[&#x1F4E4;](217.%20Contains%20Duplicate)|
@@ -20,14 +35,8 @@ Tracking my LeetCode solutions with explanations.
 |[303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|Easy|TypeScript|[&#x1F4E4;](303.%20Range%20Sum%20Query%20-%20Immutable)|
 |[326. Power of Three](https://leetcode.com/problems/power-of-three/)|Easy|TypeScript|[&#x1F4E4;](326.%20Power%20of%20Three)|
 |[344. Reverse String](https://leetcode.com/problems/reverse-string/)|Easy|TypeScript|[&#x1F4E4;](344.%20Reverse%20String)|
-|[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|Medium|TypeScript|[&#x1F4E4;](347.%20Top%20K%20Frequent%20Elements)|
 |[412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|Easy|TypeScript|[&#x1F4E4;](412.%20Fizz%20Buzz)|
-|[42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|Hard|TypeScript,Python|[&#x1F4E4;](42.%20Trapping%20Rain%20Water)|
-|[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)|Medium|Python|[&#x1F4E4;](49.%20Group%20Anagrams)|
-|[567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)|Medium|TypeScript|[&#x1F4E4;](567.%20Permutation%20in%20String)|
-|[6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|Medium|TypeScript, Python|[&#x1F4E4;](6.%20ZigZag%20Conversion)|
-|[76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|Hard|TypeScript|[&#x1F4E4;](76.%20Minimum%20Window%20Substring)|
-<!-- TABLE END -->
+<!-- TABLE EASY END -->
 
 ## Features
 - Custom TypeScript tooling to add new questions to the repository using a markdown template
