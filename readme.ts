@@ -49,7 +49,7 @@ const constructMarkdownTable = (headers: string[], questions: Options[]) => {
   })
 
   questions.forEach((q, i, arr) => {
-    let newRow = `[${q.name}](${q.url})|${q.difficulty}|${q.languages.join(",")}|[&#x1F4E4;](${q.name.split(" ").join("%20")})|${i !== arr.length - 1 ? "\n|" : ""}`;
+    let newRow = `[${q.name}](${q.url})|${q.languages.join(",")}|[&#x1F4E4;](${q.name.split(" ").join("%20")})|${i !== arr.length - 1 ? "\n|" : ""}`;
     result += newRow;
   })
 
@@ -64,7 +64,7 @@ const replaceMarkdownTable = (filePath: string, start: string, end: string, tabl
   fs.writeFileSync(filePath, updated);
 }
 
-const headers = ["Problem", "Difficulty", "Language", "Solution"];
+const headers = ["Problem", "Language", "Solution"];
 
 const easyTable = constructMarkdownTable(
   headers,
