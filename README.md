@@ -14,6 +14,7 @@ Tracking my LeetCode solutions with explanations.
 |[15. 3Sum](https://leetcode.com/problems/3sum/)|Medium|Python|[&#x1F4E4;](15.%203Sum)|
 |[167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|Medium|TypeScript|[&#x1F4E4;](167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted)|
 |[191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|Easy|TypeScript|[&#x1F4E4;](191.%20Number%20of%201%20Bits)|
+|[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|Easy|TypeScript|[&#x1F4E4;](20.%20Valid%20Parentheses)|
 |[217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Easy|Python|[&#x1F4E4;](217.%20Contains%20Duplicate)|
 |[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy|TypeScript|[&#x1F4E4;](242.%20Valid%20Anagram)|
 |[303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|Easy|TypeScript|[&#x1F4E4;](303.%20Range%20Sum%20Query%20-%20Immutable)|
