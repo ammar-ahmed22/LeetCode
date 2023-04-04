@@ -25,6 +25,7 @@ Tracking my LeetCode solutions with explanations.
 |[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)|Medium|Python|[&#x1F4E4;](49.%20Group%20Anagrams)|
 |[567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)|Medium|TypeScript|[&#x1F4E4;](567.%20Permutation%20in%20String)|
 |[6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|Medium|TypeScript, Python|[&#x1F4E4;](6.%20ZigZag%20Conversion)|
+|[76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|Hard|TypeScript|[&#x1F4E4;](76.%20Minimum%20Window%20Substring)|
 <!-- TABLE END -->
 
 ## Features
