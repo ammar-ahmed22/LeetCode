@@ -12,6 +12,7 @@ Tracking my LeetCode solutions with explanations.
 |[125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|Easy|TypeScript|[&#x1F4E4;](125.%20Valid%20Palindrome)|
 |[14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|Easy|TypeScript|[&#x1F4E4;](14.%20Longest%20Common%20Prefix)|
 |[15. 3Sum](https://leetcode.com/problems/3sum/)|Medium|Python|[&#x1F4E4;](15.%203Sum)|
+|[150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|Medium|TypeScript|[&#x1F4E4;](150.%20Evaluate%20Reverse%20Polish%20Notation)|
 |[167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|Medium|TypeScript|[&#x1F4E4;](167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted)|
 |[191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|Easy|TypeScript|[&#x1F4E4;](191.%20Number%20of%201%20Bits)|
 |[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|Easy|TypeScript|[&#x1F4E4;](20.%20Valid%20Parentheses)|
